@@ -76,4 +76,4 @@ Prepared datasets for visualization and reporting.
 
 Priyanshu
 
-Aspiring Data Analyst | Python | SQL|Excel | Data Visualization | Business Analytics
+Aspiring Data Analyst | Python | SQL | Excel | Power BI | Data Visualization | Exploratory Data Analysis
